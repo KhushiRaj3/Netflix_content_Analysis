@@ -57,7 +57,7 @@ Contains over **6,000+ titles** with columns like:
 ``` 
  
 2. Install dependencies:
-```bash
+  ```bash
 pip install pandas matplotlib
  ```
 3.Run the analysis:
