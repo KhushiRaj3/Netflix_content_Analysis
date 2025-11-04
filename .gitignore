@@ -1,0 +1,41 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter and Colab
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.out
+*.err
+
+# Datasets and temporary data files
+*.csv
+*.xlsx
+*.json
+
+# Environment files
+.env
+*.env
+
+# Ignore model or cache directories
+models/
+cache/
